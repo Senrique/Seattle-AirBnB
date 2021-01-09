@@ -2,6 +2,8 @@
 
 This project is to do a brief data exploration on Seattle's AirBnB data. I will analyze the how the listings are distributed across different neighborhoods of Seattle, what are their features and how does the price vary across neighborhoods and time.
 
+The analysis is summarized in this blog [post](https://suhaskaranth2008.medium.com/seattle-airbnb-data-a-brief-data-exploration-b68fb891952e).
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
