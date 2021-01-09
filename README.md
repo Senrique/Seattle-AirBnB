@@ -1,6 +1,4 @@
 # Seattle-AirBnB
-Analyze the AirBnB data
-# Seattle-AirBnB
 
 This project is to do a brief data exploration on Seattle's AirBnB data. I will analyze the how the listings are distributed across different neighborhoods of Seattle, what are their features and how does the price vary across neighborhoods and time.
 
@@ -18,7 +16,7 @@ Packages: os, folium, pandas, numpy, datetime, matplotlib.pyplot, seaborn
 
 ### Installing
 
-You can install python from this [link].
+You can install python from this [link](https://www.python.org/downloads/release/python-371/).
 
 Packages can be installed using the 'requirements.txt' that is available in the repository.
 
@@ -37,4 +35,4 @@ Data is also available [here](https://www.kaggle.com/airbnb/seattle/data)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Senrique/Seattle-AirBnB/blob/main/LICENSE) file for details
