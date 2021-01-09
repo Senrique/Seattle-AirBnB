@@ -11,6 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 Python: 3.7.1
+
 Packages: os, folium, pandas, numpy, datetime, matplotlib.pyplot, seaborn
 
 
@@ -26,9 +27,10 @@ pip install -r requirements.txt
 
 ### Files used:
 The analysis is present in the jupyter notebook - 'Analysis of AirBnB homes of Seattle.ipynb'. This takes input of 3 files-
-..* Listings, including full descriptions and average review score
-..* Reviews, including unique id for each reviewer and detailed comments
-..* Calendar, including listing id and the price and availability for that day
+
+⋅⋅* Listings, including full descriptions and average review score
+⋅⋅* Reviews, including unique id for each reviewer and detailed comments
+⋅⋅* Calendar, including listing id and the price and availability for that day
 
 Data is also available [here](https://www.kaggle.com/airbnb/seattle/data)
 
