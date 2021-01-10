@@ -54,6 +54,8 @@ The analysis is summarized in this blog [post](https://suhaskaranth2008.medium.c
 
 ## Licensing, Authors, Acknowledgements
 
-The data was made available by AirBnB and you can view the licensing and further information about the data [here](http://insideairbnb.com/get-the-data.html)
+The data was made available by AirBnB and you can view the licensing and further information about the data [here](http://insideairbnb.com/get-the-data.html). I have to acknowledge Stackoverflow community as they rescued me from the errors and bugs faced during the analysis.
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Senrique/Seattle-AirBnB/blob/main/LICENSE) file for details
+
+Please feel free to use my code for your purposes.
